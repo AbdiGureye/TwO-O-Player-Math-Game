@@ -27,3 +27,4 @@ class Player
       take_life
     end
   end
+  
